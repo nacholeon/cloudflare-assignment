@@ -1,0 +1,4 @@
+hostname: argonauta.leonmarine.com
+url: http://34.105.227.144:80
+logfile: /var/log/cloudflared.log
+no-tls-verify: True
